@@ -1,2 +1,2 @@
-]var specialGuest -Neil deGrasse Tyson
+var specialGuest -Neil deGrasse Tyson
 "Hello," + speciaGuest + "!"
